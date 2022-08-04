@@ -117,7 +117,7 @@ body{
         flex-direction: column;
         justify-content: space-around;
         padding: 0px;
-        background-color:  hsl(268, 47%, 21%);  
+        background-color:  hsl(0, 5%, 81%);  
     }
     .row-1 button
     .row-2, button
@@ -130,11 +130,12 @@ body{
         font-size: large;
         font-weight: bold;
         margin: 0px;
+        background-color: lightgray;
         
     }
     .display input{
         height: 70px;
-        background-color: hsl(268, 47%, 21%);
+        background-color: white;
         margin-top: 5%;
         display: flex;
         justify-content: end;
